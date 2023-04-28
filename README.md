@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Arbato
-- 👀 I’m interested in labs
+- ---
+- 👀 I’m interested in all sorts of stuff
 - 🌱 I’m currently learning java at itmo
 
 <!---
