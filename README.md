@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @Arbato
 - ---
 - 👀 I’m interested in all sorts of stuff
-- 🌱 I’m currently learning java and kotlin at itmo
+- 🌱 I’m currently studying at itmo
 
 <!---
 Arbato/Arbato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
